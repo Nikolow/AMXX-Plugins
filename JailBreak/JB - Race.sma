@@ -3,7 +3,7 @@
 #include <engine>
 #include <fakemeta> 
 
-#define PLUGIN "[jb] race"
+#define PLUGIN "[jb] race" //
 #define VERSION "1.0"
 #define AUTHOR "dedihost"
 
