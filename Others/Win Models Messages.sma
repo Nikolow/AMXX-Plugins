@@ -1,6 +1,7 @@
 #include <amxmodx>
 #include <fakemeta>
 #include <cstrike>
+//
 
 new Hands[33], MaxPlayers
 
