@@ -1,4 +1,4 @@
-#include <amxmodx>
+#include <amxmodx>//
 #include <amxmisc>
 
 #define MAX_OPTIONS 7
