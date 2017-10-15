@@ -1,7 +1,7 @@
 #include <amxmodx> 
 #include <fakemeta> 
 #include <hamsandwich>
-#include <cstrike> 
+#include <cstrike> //
 
 new bool:g_happyhour 
 new cvar_init,cvar_end,cvar_on,message[80] 
