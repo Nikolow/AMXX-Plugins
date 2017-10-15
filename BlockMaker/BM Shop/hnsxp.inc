@@ -16,7 +16,7 @@
 
 native hnsxp_get_user_xp(const client);
 
-/*
+/* ///
  * Sets <xp> points to client
  * 
  * @param		client - The player index to set points to
