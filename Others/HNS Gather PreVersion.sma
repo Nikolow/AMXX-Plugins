@@ -1,3 +1,10 @@
+/*
+
+	Търнирна система за HNS Clanwar. Олеснена с менюта и много проста.
+	Не толкова функционална, колкото платената версия.
+
+*/
+
 #include <amxmodx>
 #include <cstrike>
 #include <fakemeta_util>
