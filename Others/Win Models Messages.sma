@@ -1,3 +1,9 @@
+/*
+
+	Win Messages, с модели. При спечелването на някой отбор (CT Win / TT Win) се изкарва на всеки играч модел.
+
+*/
+
 #include <amxmodx>
 #include <fakemeta>
 #include <cstrike>
