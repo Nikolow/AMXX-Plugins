@@ -1,3 +1,10 @@
+/*
+
+    Respawn за деатрън сървъри в определени часове.
+    Хубаво е да се смени проверката за часовете с тази на крома.
+
+*/
+
 #include <amxmodx> 
 #include <fakemeta> 
 #include <hamsandwich>
