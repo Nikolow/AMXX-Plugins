@@ -1,3 +1,10 @@
+/*
+
+	Не много ефективен Respawn плъгин за deathrun сървъри с време.
+	Хубаво е да се пренапише изцяло, най-малко времето за Respawn и худа !
+
+*/
+
 #include <amxmodx>
 #include <fakemeta>
 #include <hamsandwich>
