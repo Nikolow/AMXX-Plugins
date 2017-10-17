@@ -1,3 +1,10 @@
+/*
+	
+	/invis команда полезна за HNS и Deathrun сървъри. По-спецефичното при тази версия е, че има и опция за ChatBox
+	Плъгина скрива само съотборниците !
+
+*/
+
 #include <amxmodx>
 #include <cstrike>
 #include <fakemeta>
