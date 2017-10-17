@@ -1,3 +1,12 @@
+/*
+
+         Разширен Blockmaker Shop, Който е опростен и лесно редактируем.
+         Работи с пари.
+         Има опция за купуване на XP от магазина и трябва допълнителен hns xp non steam плъгин.
+         Има и опция за Anti Frost, тоест ще трябва и плъгина frostnades с натив за frost immune.
+ 
+*/
+
 #include < amxmodx >
 #include < fun >
 #include < cstrike >
