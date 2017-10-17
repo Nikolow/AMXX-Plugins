@@ -1,5 +1,9 @@
 /*
-ZOMBIE DARKNESS FLASHBANG
+
+         ZOMBIE DARKNESS FLASHBANG
+         Превръща Флашката в Push граната, която отблъсква хората.
+         Радиуса и Силата се променят от ред 15 (float стойностите).
+         
 */
 #include <amxmodx>
 #include <fakemeta>
