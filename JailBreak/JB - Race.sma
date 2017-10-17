@@ -1,3 +1,11 @@
+/*
+
+    От името му идва за какво става въпрос.
+    Командата е: /race.
+    Модела е: csflags
+
+*/
+
 #include <amxmodx>
 #include <jbextreme>
 #include <engine>
