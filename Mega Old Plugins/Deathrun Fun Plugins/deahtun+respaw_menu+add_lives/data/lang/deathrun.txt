@@ -1,0 +1,39 @@
+﻿[en]
+DR_NOW_TERR = %s\YEL is now the terrorist.
+DR_STARTING = Starting in 10 seconds.
+DR_NO_DETECT = No terrorist detected, restarting now.
+DR_NOT_ENOUGH = Not enough players to start Deathrun!
+DR_STARTING_CC = Starting in\GRN 10\YEL seconds.
+
+DR_LIFE_CC_COUNT = You have\TEM %i\YEL lifes.
+DR_LIFE_CC_NO = You dont have lifes, kill enemy to get one!
+DR_LIFE_COUNT = You have %i lifes.
+DR_LIFE_NO = You dont have lifes^nKill enemy to get one!
+DR_LIFE_DISABLE = Life system is disabled.
+DR_LIFE_RESPAWN = You have to choose if you want \TEM RESPAWN
+DR_LIFE_CANT = You could be respawned but all CT's are dead now!
+DR_LIFE_NOW = Respawn
+DR_LIFE_NOT = Don't Respawn
+
+DR_BLOCK_SPRAY = Spray's not allowed on this server!
+DR_BLOCK_KILL = You can't kill yourself!
+
+[ru]
+DR_NOW_TERR = %s\YEL теперь террорист!
+DR_STARTING = Начинаем через 10 секунд.
+DR_NO_DETECT = Террорист не найден, рестарт.
+DR_NOT_ENOUGH = Недостаточно игроков что бы начать игру!
+DR_STARTING_CC = Начинаем через\GRN 10\YEL секунд.
+
+DR_LIFE_CC_COUNT = У тебя\TEM %i\YEL дополнительных жизней.
+DR_LIFE_CC_NO = У тебя нет дополнительных жизней, убей врага что бы получить одну!
+DR_LIFE_COUNT = У тебя %i дополнительных жизней.
+DR_LIFE_NO = У тебя нет дополнительных жизней^нУбей врага что бы получить одну!
+DR_LIFE_DISABLE = Система дополнительных жизней выключена.
+DR_LIFE_RESPAWN = Ты будешь респавнут через\TEM 3\YEL секунды!
+DR_LIFE_CANT = Ты мог бы респавнутся, но не осталось других живых CT!
+DR_LIFE_NOW = Возродиться
+DR_LIFE_NOT = Остаться трупом
+
+DR_BLOCK_SPRAY = Пользоваться граффити на этом сервере нельзя!
+DR_BLOCK_KILL = Ты не можешь убить себя!
