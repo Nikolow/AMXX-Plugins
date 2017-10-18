@@ -1,0 +1,17 @@
+<body bgcolor=black text=#DCDCDC>
+<center>
+<ul> </br><b><font color=#B0C4DE size=+3>Fnj</font>-<font color=DCDCDC size=+3>GaminG</font>&nbsp;&nbsp;&nbsp;<font color=E77471></font>&nbsp;&nbsp;&nbsp;<font color=FFF8C6 size=+3>ADMIN</font> <font color=FAAFBE size=+3>Rules</font></b></br></br>
+<b><font color=B0C4DE>1.</font> No Swear Players !</b> </br>
+<b><font color=B0C4DE>2.</font> No Punish players for No Reason !</b> </br>
+<b><font color=B0C4DE>3.</font> No Ban, Slay, Slap, Kick for swear !</b> <font color=FAAFBE>(Just GAG)</font></b> </br>
+<b><font color=B0C4DE>4.</font> No Team Transfer Anyone</b> </br>
+<b><font color=B0C4DE>6.</font> No use Admin buggs</b> <font color=4E8975>[Only in extreme cases]</font></b> </br>
+<b><font color=B0C4DE>8.</font> No Àdvertising other servers</b> </br>
+<b><font color=B0C4DE>9.</font> No spam in Hud and Text chat !</b> </br>
+<b><font color=B0C4DE>10.</font> Type in chat /rules to view Global Rules</b> </br>
+<br>
+<b>------- If you do <font color=9370D8>Not Follow</font> the Rules, your rights will be <font color=48D1CC>LOST</font> -------</b>
+</br>
+</br>
+<b> -- Type <font color=87CEFA>/adminrules</font> if you want to see Admin rules again -- </b> </br>
+</center>
