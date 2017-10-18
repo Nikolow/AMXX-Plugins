@@ -1,0 +1,19 @@
+Plugin: Players can buy themselfe nemesis or survivor.
+Author: aaarnas
+
+zp_allow_buy 2
+
+0 - Nemesis/Survivor buying allowed only on round start(before the first zombie)
+1 - Buying allowed after round start (when infection starts).
+2 - Can buy always
+
+zp_allow_times 4 // How much times player can buy survivor/nemesis per map.
+
+zp_nemesis_price 35 // Nemesis price
+zp_survivor_price 35 // Survivor price
+
+zp_limit_for_all 1 // If 1, only one player per round can buy nemesis or survivor.
+
+zp_show_who_bought 1 // Shows when someone bought survivior/nemesis
+
+If zp_allow_buy set to 1, bought player will be turrned Nemesis or Survivor mode.

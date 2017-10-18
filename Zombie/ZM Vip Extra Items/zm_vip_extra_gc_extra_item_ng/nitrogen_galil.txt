@@ -1,0 +1,27 @@
+[es]
+PURCHASE_NG = [ZP] Usted Compro una Nitrogen Galil!
+NOTICE_NG = %s Compro la Nitrogen Galil!
+ENEMY_FROST_NG = [Nitrogen Galil] Congelaste un Enemigo!
+NEMESIS_INMUNE_NG = [Nitrogen Galil] El Nemesis es Inmune a Este Efecto!
+ONLY_NG = [Nitrogen Galil] El Efecto Solo Funciona Con La Nitrogen Galil!
+
+[en]
+PURCHASE_NG = [ZP] You Purchased the Nitrogen Liquid!
+NOTICE_NG = %s Purchased the Nitrogen Liquid!
+ENEMY_FROST_NG = [Nitrogen Galil] You Frosted an Enemy!
+NEMESIS_INMUNE_NG = [Nitrogen Galil] Nemesis is Immune!
+ONLY_NG = [Nitrogen Galil] The effect only works with the Nitrogen Galil!
+
+[nl]
+PURCHASE_NG = [ZP] Jij kocht Het Nitrogeen Drankje!
+NOTICE_NG = %s kocht het Nitrogeen Drankje!
+ENEMY_FROST_NG = [Nitrogeen] Jij bevroor een Vijand!
+NEMESIS_INMUNE_NG = [Nitrogeen] De nemesis is Immuum!
+ONLY_NG = [Nitrogeen] Het effect werkt alleen met het Nitrogeen Drankje! 
+
+[pl]
+PURCHASE_NG = [ZP] Nabyles Ciekly Azot!
+NOTICE_NG = %s Nabyl Ciekly Azot!
+ENEMY_FROST_NG = [Nitrogen Galil] Zamrosiles Wroga!
+NEMESIS_INMUNE_NG = [Nitrogen Galil] Nemesis ma Immunited!
+ONLY_NG = [Nitrogen Galil] Efekt zamrozenia dziala tylko z Nitrogen Galil! 

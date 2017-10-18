@@ -1,0 +1,1 @@
+This plugin sets 'zp_vip_unlimited_ammo' cvar to 0, because otherwise VIPs has unlimited clip by default.

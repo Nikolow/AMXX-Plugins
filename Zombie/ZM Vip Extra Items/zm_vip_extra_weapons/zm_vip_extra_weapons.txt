@@ -1,0 +1,5 @@
+This plugin adds to zm_vip extra items menu weapons with damage increasement.
+
+Author: aaarnas
+All info in zm_vip_extra_weapons.sma
+You have to set your weapons and then compile plugin!
