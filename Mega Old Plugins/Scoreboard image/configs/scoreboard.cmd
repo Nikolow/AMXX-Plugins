@@ -1,0 +1,1 @@
+start AkelPad\AkelPad.exe scoreboard.txt
