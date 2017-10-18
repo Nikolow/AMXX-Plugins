@@ -1,0 +1,18 @@
+<body bgcolor=black text=#DCDCDC>
+<center>
+<ul> </br><b><font color=#B0C4DE size=+3>xD</font>-<font color=DCDCDC size=+3>GaminG</font>&nbsp;&nbsp;&nbsp;<font color=E77471>2</font>&nbsp;&nbsp;&nbsp;<font color=FFF8C6 size=+3>Server</font> <font color=FAAFBE size=+3>Rules</font></b></br></br>
+<b><font color=B0C4DE>1.</font> No SpawnKill</b> </br>
+<b><font color=B0C4DE>2.</font> No UnderStab</b> </br>
+<b><font color=B0C4DE>3.</font> No UnderBlock</b> </br>
+<b><font color=B0C4DE>4.</font> No team block</b> </br>
+<b><font color=B0C4DE>6.</font> No use of buggs</b> </br>
+<b><font color=B0C4DE>6.</font> No FunJumping <font color=4E8975>(FJ)</font></b> </br>
+<b><font color=B0C4DE>7.</font> No Winning Team Join <font color=4E8975>(WTJ)</font></b> </br>
+<b><font color=B0C4DE>8.</font> No Publiccity for other servers</b> </br>
+<b><font color=B0C4DE>9.</font> No script e.x. bhop, rysshop script</b> </br>
+<b><font color=B0C4DE>10.</font> No Screaming in your microphone, talk normally</b> </br>
+</br>
+<b> -- Type <font color=87CEFA>/rules</font> if you want to see rules again -- </b> </br>
+</br>
+<b>------- To SEE <font color=9370D8>Admin</font> Rules type <font color=48D1CC>/adminrules</font> -------</b>
+</center>

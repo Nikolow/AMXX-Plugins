@@ -1,0 +1,61 @@
+[en]
+SK_NOT_ALLOWED = Spam is not allowed here!
+SK_SERVER_KICK = You are kicked, spam is not allowed here! Spam: %i/%i
+SK_SERVER_BAN = You are banned for %i minute(s), spam is not allowed here! Spam: %i/%i
+SK_LOG_KICK = kick %s - %s for %i/%i spamming.
+SK_LOG_BAN = ban %s - %s, %i minute/s for %i/%i spamming.
+
+[de]
+SK_NOT_ALLOWED = Spam ist hier nicht erlaubt!
+SK_SERVER_KICK = Du wurdest gekickt, weil Spamen hier nicht erlaubt ist! Spam: %i/%i
+SK_SERVER_BAN = Du wurdest für %i minute/n gebannt, weil Spamen hier nicht erlaubt ist! Spam: %i/%i
+SK_LOG_KICK = kick %s - %s fuers %i/%i Spamen.
+SK_LOG_BAN = ban %s - %s, %i minute/n fuers %i/%i Spamen.
+
+
+[es]
+SK_NOT_ALLOWED = El spam no esta permitido aqui!
+SK_SERVER_KICK = Has sido kickeado, el spam no esta permitido aqui! %i/%i
+SK_SERVER_BAN = Has sido baneado por %i minute/s, El spam no esta permitido aqui! %i/%i
+SK_LOG_KICK = kick %s - %s por %i/%i spamear.
+SK_LOG_BAN = ban %s - %s, %i minuto/s por %i/%i spamear.
+
+
+[tr]
+SK_NOT_ALLOWED = Burada gereksiz yere konusmaya izin verilemez!
+SK_SERVER_KICK = Burada gereksiz yere konustugun icin, atildin! Gereksizlik: %i/%i
+SK_SERVER_BAN = %i dakika yasaklandin/s, burada gereksiz yere konusulamaz! Gereksizlik: %i/%i
+SK_LOG_KICK = at %s - %s gereksiz yere konusuldugu icin %i/%i.
+SK_LOG_BAN = yasak %s - %s, %i dakika/s gereksiz yere konusuldugu icin %i/%i.
+
+
+[bg]
+SK_NOT_ALLOWED = Spamovete ne sa pozvoleni tuk!
+SK_SERVER_KICK = Byahte izritan, spamovete ne sa pozvoleni tuk! Spam: %i/%i
+SK_SERVER_BAN = Byahte bannat za %i minuta/i, Spamovete ne sa pozvoleni tuk! Spam: %i/%i
+SK_LOG_KICK = izritvane %s - %s za %i/%i spamene.
+SK_LOG_BAN = ban %s - %s, %i minuta/i za %i/%i spamene.
+
+
+[ro]
+SK_NOT_ALLOWED = Spam-ul nu este permis aici!
+SK_SERVER_KICK = Ai primit kick,spam-ul nu este permis aici! Spam: %i/%i
+SK_SERVER_BAN = Ai primit ban pentru %i minut/e, spam-ul nu este permis aici! Spam: %i/%i
+SK_LOG_KICK = kick %s - %s pentru %i/%i spam-uri.
+SK_LOG_BAN = ban %s - %s, %i minut/e for %i/%i spam-uri.
+
+
+[nl]
+SK_NOT_ALLOWED = Spammen is hier niet toegestaan!
+SK_SERVER_KICK = Je bent verwijderd, spammen is hier niet toegestaan! Spam: %i/%i
+SK_SERVER_BAN = Je bent verbannen voor %i minuten, spammen is hier niet toegestaan! Spam: %i/%i
+SK_LOG_KICK = kick %s - %s voor %i/%i spam.
+SK_LOG_BAN = ban %s - %s, %i minuten voor %i/%i spam.
+
+
+[pl]
+SK_NOT_ALLOWED = Spam nie jest dozwolony!
+SK_SERVER_KICK = Zostales wyrzucony, spam nie jest dozwolony! Tresc spamu: %i/%i
+SK_SERVER_BAN = Zostales zbanowany na %i minut, spam nie jest dozwolony! Tresc spamu: %i/%i
+SK_LOG_KICK = kick %s - %s za %i/%i spamowanie.
+SK_LOG_BAN = ban %s - %s, %i minute/s for %i/%i spamowanie.
