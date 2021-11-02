@@ -1,5 +1,5 @@
 # Description
-AMXX Plugins for different mods
+AMXX Plugins for different mods (archive of over 200 plugins)
 
 <center>
 
@@ -42,5 +42,5 @@ Ultimate Jump Anti Cheat
 
 </center>
 
-# Meag Old Plugins
+# Mega Old Plugins
 - Downloaded archive of interesting plugins from amxmodxbg.org
